@@ -1,0 +1,6 @@
+# Ignorar todo
+*
+
+# Conservar la carpeta src y todo su contenido
+!src/
+!src/**
